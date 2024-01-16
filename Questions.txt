@@ -1,0 +1,27 @@
+1 MIN QUIZ
+1.who is the prime minister of india?
+Rajkumar
+Narendra Modi
+Subramani
+Stalin
+2.what is the capital of India?
+Chennai
+Mumbai
+Delhi
+Gujarat
+3.Which inheritance JAVA Does not allow?
+Single
+Multiple
+Multilevel
+Hybrid
+4.JAVA alloctaes how many byte for char?
+one
+four
+two
+eight
+5.What is the expansion of JVM?
+Java Video Generator
+Java Virtual Maths
+Java Video Generics
+Java Virtual Machine
+ 
